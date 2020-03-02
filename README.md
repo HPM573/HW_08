@@ -1,9 +1,9 @@
-# Homework Assignment 7
+# Homework Assignment 8
 
 
 **Note**: Before working on Problems 1-3, review the [solution](https://github.com/HPM573/HW_3_Solution) 
-to the [homework assignment 3](https://yale.instructure.com/courses/43583/assignments/92543) to make sure your model is correctly set up. 
-You may choose to continue working on the model you created for the the HW assignment 3, 
+to Homework Assignment 3 to make sure your model is correctly set up. 
+You may choose to continue working on the model you created for the the Homework Assignment 3, 
 or on the model provided in the [solution](https://github.com/HPM573/HW_3_Solution).  
 
 
