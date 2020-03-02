@@ -21,19 +21,3 @@ How do you interpret the confidence intervals you reported in Problem 1?
 Both are interested in knowing their expected reward and the uncertainty in your estimates. 
 Report the appropriate interval (confidence or projection) to describe the uncertainty in your 
 estimates and interpret these intervals for them.
-
-**Problem 4: Outcomes of the Urgent Care Model (BONUS QUESTION)**
-For the urgent care model you developed in the 
-[homework assignment 6](https://yale.instructure.com/courses/43583/assignments/92546), report: 
-
-- Average patient time in system,
-- Average patient waiting time,
-- Average patient waiting time to see the mental health specialist
-- Sample paths of: 
-    - Patients in the system
-    - Patients waiting to see the mental health specialist
-    - Utilization of mental health specialist
-
-You can use any part of the code in the [solution](https://github.com/HPM573/HW_6_Solution) or
-in the the [urgent care model](https://github.com/HPM573/Lab_DiscreteEventSimulation)
- we developed in the class.
