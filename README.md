@@ -8,7 +8,8 @@ or on the model provided in the [solution](https://github.com/HPM573/HW_3_Soluti
 
 
 **Problem 1: Confidence Interval (Weight 1).**
-Print the 95% t-based confidence intervals for the expected reward and the probability of loss. 
+Print the 95% t-based confidence intervals for the expected reward and the probability of loss 
+(assuming that the probabiliy of head is 50% in each coin flip). 
 You can use 1,000 simulated games to calculate these confidence intervals.
 
 **Problem 2: Interpretation of Confidence Intervals (Weight 1):** 
