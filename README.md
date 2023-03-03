@@ -16,7 +16,7 @@ You can use 1,000 simulated games to calculate these confidence intervals.
 How do you interpret the confidence intervals you reported in Problem 1?
 
 **Problem 3: How many simulation runs are needed? (Weight 1):** 
-Suppose that we would like to half length of our estiamted expected reward to be at most $2. How many simulation runs should we obtain?
+Suppose that we would like the half length of our estiamted expected reward to be at most $2. How many simulation runs should we obtain?
 
 **Problem 4: Casino Owner versus Gamblers (Weight 3).** Analyze this game from the perspectives of:
 1. The casino owner who gets to play this game many times, and
